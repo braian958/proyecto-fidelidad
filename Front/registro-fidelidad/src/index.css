@@ -1,0 +1,170 @@
+body{
+    background-color: rgba(241, 241, 241, 0.932);
+    background-image: url("/public/AMERICANINO-removebg-preview.png" ) , url("/public/ameriganEagle.png") , url("/public/chevignon.png") , url("/public/AMERICANINO-removebg-preview.png" ), url("/public/esprit.png") , url("/public/ameriganEagle.png") , url("/public/nafnaf.png") , url("/public/rifle.png") , url("/public/nafnaf.png") , url("/public/esprit.png"),url("/public/chevignon.png");
+    background-repeat: no-repeat;
+    background-position: 1100px 5px, 1080px 400px , 100px 300px ,730px 350px ,10px 30px, 550px -50px ,100px 600px, 600px 600px , 400px 100px , 1000px 250px , 1100px 550px  ;
+    background-size: 400px, 400px , 400px , 400px, 400px , 400px;
+    
+}
+
+
+
+.con-p h2 , h3 {
+    font-family: cursive;
+    font-size: 20px;
+    color: black;
+}
+
+.con-p {
+    transform: translate(500px , 130px);
+    height: 60vh;
+    background-color: #ffffff;
+    width: 60vh;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    text-align: center;
+    border: solid 2px black;
+    background: rgba(0, 0, 0, 0.144); 
+    backdrop-filter: blur(10px);          
+    -webkit-backdrop-filter: blur(10px);   
+    border: 1px solid rgba(255, 255, 255, 0.3); 
+    color: white;
+    border-radius: 5px;
+    border: solid 1px black;
+}
+
+
+.nombres {
+    margin-top: 20px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    height: 30px;
+    width: 200px;
+    border: none;
+    border-radius: 5px;
+    border: none;
+}
+
+.apellidos {
+    margin-top: 20px;
+    background-color: rgb(255, 254, 254);
+    color: rgb(0, 0, 0);
+    height: 30px;
+    width: 200px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 10px;
+    border: none;
+}
+
+.tipoIdentificacion {
+    margin-top: 20px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    height: 30px;
+    width: 200px;
+    border: none;
+    border-radius: 5px;
+   border: none;
+}
+
+.numeroIdentificacion {
+   background-color: rgb(255, 255, 255);
+    height: 30px;
+    width: 200px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 10px; 
+    color: black;
+   border: none;
+}
+
+.pais {
+   margin-top: 20px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    height: 30px;
+    width: 200px;
+    border: none;
+    border-radius: 5px;  
+    margin-left: 10px;
+   border: none;
+}
+
+.ciudad {
+   background-color: rgb(255, 255, 255);
+   color: black;
+    height: 30px;
+    width: 200px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 10px;  
+  border: none;
+}
+
+.departamento {
+     margin-top: 20px;
+    background-color: rgb(255, 255, 255);
+    height: 30px;
+    color: black;
+    width: 200px;
+    border: none;
+    border-radius: 5px;  
+    margin-left: 10px;
+   border: none;
+}
+
+.direccion {
+    background-color: rgb(255, 255, 255);
+    height: 30px;
+    color: black;
+    width: 200px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 10px;  
+   border: none;
+}
+
+.fechaNacimiento {
+  margin-top: 20px;
+    background-color: rgb(255, 255, 255);
+    height: 30px;
+    width: 200px;
+    color: black;
+    border: none;
+    border-radius: 5px;  
+    margin-left: 10px; 
+   border: none;
+}
+
+.marca {
+    margin-top: 20px;
+    background-color: rgb(255, 255, 255);
+    height: 30px;
+    color: black;
+    width: 200px;
+    border: none;
+    border-radius: 5px;  
+    margin-left: 10px;  
+    border: none;
+}
+
+.boton {
+    transform: translate(0px, 40px);
+    height: 35px;
+    width: 90px;
+    background-color: rgb(1, 1, 1);
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.5s ease;
+}
+
+.boton:hover {
+   background-color: aliceblue;
+   color: black;
+   box-shadow: rgb(0, 0, 0) 2px 2px 2px 2px;
+}
+
+
